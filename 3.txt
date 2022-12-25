@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hello world
 
+=======
+gukgsljv
+skdhvslhv;
+skdhvlshvls
+>>>>>>> 050681cae7bfa93b46155b5fa6602ac02a2c00e2
